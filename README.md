@@ -12,7 +12,7 @@
 - PostgreSQL – Base de datos relacional utilizada para almacenar libros y autores.
 - Jackson – Para deserializar JSON en record Java.
 - Records de Java – Para mapear los datos obtenidos del API de Gutendex.
-- RestTemplate – Cliente HTTP usado para consumir la API externa.
+- HTTP Client (java.net.http.HttpClient)
 - Java Streams & Optional – Para operaciones funcionales como filtrado y validación de existencia antes de guardar datos.
 - Maven – Como gestor de dependencias y construcción del proyecto.
 
